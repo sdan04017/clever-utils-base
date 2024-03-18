@@ -1,0 +1,29 @@
+{
+  "name": "clever-utils-base",
+  "version": "1.0.0",
+  "description": "Clever Utils is a Node.js module providing a collection of clever utility functions for various purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdan04017/clever-utils-base"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+	"lapuhovlamel-image-utils": "1.1.4",
+    "lunar-insight-flee": "1.0.0",
+    "kastpitocidanielle-text-crypto": "1.1.4",
+    "zenkit-chat": "1.0.0",
+    "take-text-crypto": "1.0.0",
+    "gain-quote": "1.0.0",
+    "mandytrowbridge260-date-time": "1.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdan04017/clever-utils-base/issues"
+  },
+  "homepage": "https://github.com/sdan04017/clever-utils-base#readme"
+}
